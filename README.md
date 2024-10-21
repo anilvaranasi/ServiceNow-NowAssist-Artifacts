@@ -1,0 +1,1 @@
+This repository has data model for **ServiceNow Now Assist related applications**. Artifacts are in **PDF and gml** format. In order to view the contents of PDF correctly, first download them locally and then view it as preview doesnt render the content correctly.
